@@ -1,5 +1,5 @@
---temp-output:C:\Users\TanyaBrá\Desktop\HR\Haust 2016\Vefforritun\Verkefni_4_karen14_tanya14\Verkefni_4\Week05.Core\Tests\obj\Debug\netcoreapp1.0\
---out:C:\Users\TanyaBrá\Desktop\HR\Haust 2016\Vefforritun\Verkefni_4_karen14_tanya14\Verkefni_4\Week05.Core\Tests\bin\Debug\netcoreapp1.0\Tests.dll
+--temp-output:C:\Users\TanyaBrá\Desktop\HR\Haust 2016\Vefforritun\Week05.Core\Tests\obj\Debug\netcoreapp1.0\
+--out:C:\Users\TanyaBrá\Desktop\HR\Haust 2016\Vefforritun\Week05.Core\Tests\bin\Debug\netcoreapp1.0\Tests.dll
 --define:DEBUG
 --define:TRACE
 --define:NETCOREAPP1_0
@@ -123,11 +123,11 @@
 --reference:C:\Users\TanyaBrá\.nuget\packages\xunit.extensibility.execution\2.1.0\lib\dotnet\xunit.execution.dotnet.dll
 --reference:C:\Users\TanyaBrá\.nuget\packages\xunit.runner.reporters\2.1.0\lib\dotnet\xunit.runner.reporters.dotnet.dll
 --reference:C:\Users\TanyaBrá\.nuget\packages\xunit.runner.utility\2.1.0\lib\dotnet\xunit.runner.utility.dotnet.dll
---reference:C:\Users\TanyaBrá\Desktop\HR\Haust 2016\Vefforritun\Verkefni_4_karen14_tanya14\Verkefni_4\Week05.Core\Models\bin\Debug\netstandard1.6\Models.dll
---reference:C:\Users\TanyaBrá\Desktop\HR\Haust 2016\Vefforritun\Verkefni_4_karen14_tanya14\Verkefni_4\Week05.Core\Services\bin\Debug\netcoreapp1.0\Services.dll
-C:\Users\TanyaBrá\Desktop\HR\Haust 2016\Vefforritun\Verkefni_4_karen14_tanya14\Verkefni_4\Week05.Core\Tests\Tests.cs
-C:\Users\TanyaBrá\Desktop\HR\Haust 2016\Vefforritun\Verkefni_4_karen14_tanya14\Verkefni_4\Week05.Core\Tests\MockObjects\MockDataContext.cs
-C:\Users\TanyaBrá\Desktop\HR\Haust 2016\Vefforritun\Verkefni_4_karen14_tanya14\Verkefni_4\Week05.Core\Tests\MockObjects\MockRepository.cs
-C:\Users\TanyaBrá\Desktop\HR\Haust 2016\Vefforritun\Verkefni_4_karen14_tanya14\Verkefni_4\Week05.Core\Tests\MockObjects\MockUnitOfWork.cs
-C:\Users\TanyaBrá\Desktop\HR\Haust 2016\Vefforritun\Verkefni_4_karen14_tanya14\Verkefni_4\Week05.Core\Tests\Services\CourseServicesTests.cs
-C:\Users\TanyaBrá\Desktop\HR\Haust 2016\Vefforritun\Verkefni_4_karen14_tanya14\Verkefni_4\Week05.Core\Tests\Utilities\DateTimeUtilsTests.cs
+--reference:C:\Users\TanyaBrá\Desktop\HR\Haust 2016\Vefforritun\Week05.Core\Models\bin\Debug\netstandard1.6\Models.dll
+--reference:C:\Users\TanyaBrá\Desktop\HR\Haust 2016\Vefforritun\Week05.Core\Services\bin\Debug\netcoreapp1.0\Services.dll
+C:\Users\TanyaBrá\Desktop\HR\Haust 2016\Vefforritun\Week05.Core\Tests\Tests.cs
+C:\Users\TanyaBrá\Desktop\HR\Haust 2016\Vefforritun\Week05.Core\Tests\MockObjects\MockDataContext.cs
+C:\Users\TanyaBrá\Desktop\HR\Haust 2016\Vefforritun\Week05.Core\Tests\MockObjects\MockRepository.cs
+C:\Users\TanyaBrá\Desktop\HR\Haust 2016\Vefforritun\Week05.Core\Tests\MockObjects\MockUnitOfWork.cs
+C:\Users\TanyaBrá\Desktop\HR\Haust 2016\Vefforritun\Week05.Core\Tests\Services\CourseServicesTests.cs
+C:\Users\TanyaBrá\Desktop\HR\Haust 2016\Vefforritun\Week05.Core\Tests\Utilities\DateTimeUtilsTests.cs

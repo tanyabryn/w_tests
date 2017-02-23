@@ -41,9 +41,12 @@
 		"Models": {
 			"target": "project"
 		},
-		"Services": {
-			"target": "project"
-		}
+    "Services": {
+      "target": "project"
+    },
+    "xunit": "2.2.0",
+    "xunit.runner.console": "2.2.0",
+    "NUnit": "3.6.0"
 	},
 
 	"tools": {

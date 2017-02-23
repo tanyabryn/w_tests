@@ -1,5 +1,5 @@
---temp-output:C:\Users\TanyaBrá\Desktop\HR\Haust 2016\Vefforritun\Verkefni_4_karen14_tanya14\Verkefni_4\Week05.Core\Services\obj\Debug\netcoreapp1.0\
---out:C:\Users\TanyaBrá\Desktop\HR\Haust 2016\Vefforritun\Verkefni_4_karen14_tanya14\Verkefni_4\Week05.Core\Services\bin\Debug\netcoreapp1.0\Services.dll
+--temp-output:C:\Users\TanyaBrá\Desktop\HR\Haust 2016\Vefforritun\Week05.Core\Services\obj\Debug\netcoreapp1.0\
+--out:C:\Users\TanyaBrá\Desktop\HR\Haust 2016\Vefforritun\Week05.Core\Services\bin\Debug\netcoreapp1.0\Services.dll
 --define:DEBUG
 --define:TRACE
 --define:NETCOREAPP1_0
@@ -137,20 +137,20 @@
 --reference:C:\Users\TanyaBrá\.nuget\packages\System.Threading.Timer\4.0.1\ref\netstandard1.2\System.Threading.Timer.dll
 --reference:C:\Users\TanyaBrá\.nuget\packages\System.Xml.ReaderWriter\4.0.11\ref\netstandard1.3\System.Xml.ReaderWriter.dll
 --reference:C:\Users\TanyaBrá\.nuget\packages\System.Xml.XDocument\4.0.11\ref\netstandard1.3\System.Xml.XDocument.dll
---reference:C:\Users\TanyaBrá\Desktop\HR\Haust 2016\Vefforritun\Verkefni_4_karen14_tanya14\Verkefni_4\Week05.Core\Models\bin\Debug\netstandard1.6\Models.dll
-C:\Users\TanyaBrá\Desktop\HR\Haust 2016\Vefforritun\Verkefni_4_karen14_tanya14\Verkefni_4\Week05.Core\Services\DataAccess\AppDataContext.cs
-C:\Users\TanyaBrá\Desktop\HR\Haust 2016\Vefforritun\Verkefni_4_karen14_tanya14\Verkefni_4\Week05.Core\Services\DataAccess\IDBContext.cs
-C:\Users\TanyaBrá\Desktop\HR\Haust 2016\Vefforritun\Verkefni_4_karen14_tanya14\Verkefni_4\Week05.Core\Services\DataAccess\IRepository.cs
-C:\Users\TanyaBrá\Desktop\HR\Haust 2016\Vefforritun\Verkefni_4_karen14_tanya14\Verkefni_4\Week05.Core\Services\DataAccess\IUnitOfWork.cs
-C:\Users\TanyaBrá\Desktop\HR\Haust 2016\Vefforritun\Verkefni_4_karen14_tanya14\Verkefni_4\Week05.Core\Services\DataAccess\Repository.cs
-C:\Users\TanyaBrá\Desktop\HR\Haust 2016\Vefforritun\Verkefni_4_karen14_tanya14\Verkefni_4\Week05.Core\Services\DataAccess\UnitOfWork.cs
-C:\Users\TanyaBrá\Desktop\HR\Haust 2016\Vefforritun\Verkefni_4_karen14_tanya14\Verkefni_4\Week05.Core\Services\Entities\CourseInstance.cs
-C:\Users\TanyaBrá\Desktop\HR\Haust 2016\Vefforritun\Verkefni_4_karen14_tanya14\Verkefni_4\Week05.Core\Services\Entities\CourseTemplate.cs
-C:\Users\TanyaBrá\Desktop\HR\Haust 2016\Vefforritun\Verkefni_4_karen14_tanya14\Verkefni_4\Week05.Core\Services\Entities\Person.cs
-C:\Users\TanyaBrá\Desktop\HR\Haust 2016\Vefforritun\Verkefni_4_karen14_tanya14\Verkefni_4\Week05.Core\Services\Entities\Semester.cs
-C:\Users\TanyaBrá\Desktop\HR\Haust 2016\Vefforritun\Verkefni_4_karen14_tanya14\Verkefni_4\Week05.Core\Services\Entities\StudentCourseRegistration.cs
-C:\Users\TanyaBrá\Desktop\HR\Haust 2016\Vefforritun\Verkefni_4_karen14_tanya14\Verkefni_4\Week05.Core\Services\Entities\TeacherRegistration.cs
-C:\Users\TanyaBrá\Desktop\HR\Haust 2016\Vefforritun\Verkefni_4_karen14_tanya14\Verkefni_4\Week05.Core\Services\Exceptions\AppObjectNotFoundException.cs
-C:\Users\TanyaBrá\Desktop\HR\Haust 2016\Vefforritun\Verkefni_4_karen14_tanya14\Verkefni_4\Week05.Core\Services\Exceptions\AppValidationException.cs
-C:\Users\TanyaBrá\Desktop\HR\Haust 2016\Vefforritun\Verkefni_4_karen14_tanya14\Verkefni_4\Week05.Core\Services\Services\CoursesServiceProvider.cs
-C:\Users\TanyaBrá\Desktop\HR\Haust 2016\Vefforritun\Verkefni_4_karen14_tanya14\Verkefni_4\Week05.Core\Services\Utilities\DateTimeUtils.cs
+--reference:C:\Users\TanyaBrá\Desktop\HR\Haust 2016\Vefforritun\Week05.Core\Models\bin\Debug\netstandard1.6\Models.dll
+C:\Users\TanyaBrá\Desktop\HR\Haust 2016\Vefforritun\Week05.Core\Services\DataAccess\AppDataContext.cs
+C:\Users\TanyaBrá\Desktop\HR\Haust 2016\Vefforritun\Week05.Core\Services\DataAccess\IDBContext.cs
+C:\Users\TanyaBrá\Desktop\HR\Haust 2016\Vefforritun\Week05.Core\Services\DataAccess\IRepository.cs
+C:\Users\TanyaBrá\Desktop\HR\Haust 2016\Vefforritun\Week05.Core\Services\DataAccess\IUnitOfWork.cs
+C:\Users\TanyaBrá\Desktop\HR\Haust 2016\Vefforritun\Week05.Core\Services\DataAccess\Repository.cs
+C:\Users\TanyaBrá\Desktop\HR\Haust 2016\Vefforritun\Week05.Core\Services\DataAccess\UnitOfWork.cs
+C:\Users\TanyaBrá\Desktop\HR\Haust 2016\Vefforritun\Week05.Core\Services\Entities\CourseInstance.cs
+C:\Users\TanyaBrá\Desktop\HR\Haust 2016\Vefforritun\Week05.Core\Services\Entities\CourseTemplate.cs
+C:\Users\TanyaBrá\Desktop\HR\Haust 2016\Vefforritun\Week05.Core\Services\Entities\Person.cs
+C:\Users\TanyaBrá\Desktop\HR\Haust 2016\Vefforritun\Week05.Core\Services\Entities\Semester.cs
+C:\Users\TanyaBrá\Desktop\HR\Haust 2016\Vefforritun\Week05.Core\Services\Entities\StudentCourseRegistration.cs
+C:\Users\TanyaBrá\Desktop\HR\Haust 2016\Vefforritun\Week05.Core\Services\Entities\TeacherRegistration.cs
+C:\Users\TanyaBrá\Desktop\HR\Haust 2016\Vefforritun\Week05.Core\Services\Exceptions\AppObjectNotFoundException.cs
+C:\Users\TanyaBrá\Desktop\HR\Haust 2016\Vefforritun\Week05.Core\Services\Exceptions\AppValidationException.cs
+C:\Users\TanyaBrá\Desktop\HR\Haust 2016\Vefforritun\Week05.Core\Services\Services\CoursesServiceProvider.cs
+C:\Users\TanyaBrá\Desktop\HR\Haust 2016\Vefforritun\Week05.Core\Services\Utilities\DateTimeUtils.cs

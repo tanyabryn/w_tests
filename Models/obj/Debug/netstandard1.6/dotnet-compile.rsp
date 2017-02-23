@@ -1,5 +1,5 @@
---temp-output:C:\Users\TanyaBrá\Desktop\HR\Haust 2016\Vefforritun\Verkefni_4_karen14_tanya14\Verkefni_4\Week05.Core\Models\obj\Debug\netstandard1.6\
---out:C:\Users\TanyaBrá\Desktop\HR\Haust 2016\Vefforritun\Verkefni_4_karen14_tanya14\Verkefni_4\Week05.Core\Models\bin\Debug\netstandard1.6\Models.dll
+--temp-output:C:\Users\TanyaBrá\Desktop\HR\Haust 2016\Vefforritun\Week05.Core\Models\obj\Debug\netstandard1.6\
+--out:C:\Users\TanyaBrá\Desktop\HR\Haust 2016\Vefforritun\Week05.Core\Models\bin\Debug\netstandard1.6\Models.dll
 --define:DEBUG
 --define:TRACE
 --define:NETSTANDARD1_6
@@ -56,7 +56,7 @@
 --reference:C:\Users\TanyaBrá\.nuget\packages\System.Threading.Timer\4.0.1\ref\netstandard1.2\System.Threading.Timer.dll
 --reference:C:\Users\TanyaBrá\.nuget\packages\System.Xml.ReaderWriter\4.0.11\ref\netstandard1.3\System.Xml.ReaderWriter.dll
 --reference:C:\Users\TanyaBrá\.nuget\packages\System.Xml.XDocument\4.0.11\ref\netstandard1.3\System.Xml.XDocument.dll
-C:\Users\TanyaBrá\Desktop\HR\Haust 2016\Vefforritun\Verkefni_4_karen14_tanya14\Verkefni_4\Week05.Core\Models\AddTeacherViewModel.cs
-C:\Users\TanyaBrá\Desktop\HR\Haust 2016\Vefforritun\Verkefni_4_karen14_tanya14\Verkefni_4\Week05.Core\Models\CourseInstanceDTO.cs
-C:\Users\TanyaBrá\Desktop\HR\Haust 2016\Vefforritun\Verkefni_4_karen14_tanya14\Verkefni_4\Week05.Core\Models\PersonDTO.cs
-C:\Users\TanyaBrá\Desktop\HR\Haust 2016\Vefforritun\Verkefni_4_karen14_tanya14\Verkefni_4\Week05.Core\Models\TeacherType.cs
+C:\Users\TanyaBrá\Desktop\HR\Haust 2016\Vefforritun\Week05.Core\Models\AddTeacherViewModel.cs
+C:\Users\TanyaBrá\Desktop\HR\Haust 2016\Vefforritun\Week05.Core\Models\CourseInstanceDTO.cs
+C:\Users\TanyaBrá\Desktop\HR\Haust 2016\Vefforritun\Week05.Core\Models\PersonDTO.cs
+C:\Users\TanyaBrá\Desktop\HR\Haust 2016\Vefforritun\Week05.Core\Models\TeacherType.cs
