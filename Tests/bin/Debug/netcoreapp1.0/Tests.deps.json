@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v1.0",
-    "signature": "dee5925ef49bdedfa24c44f7946cd226b0ef0f42"
+    "signature": "c50a97b69c274f88d18e8715c8311001a04dd94d"
   },
   "compilationOptions": {},
   "targets": {
@@ -11,7 +11,8 @@
           "System.Runtime.Serialization.Primitives": "4.1.1",
           "xunit": "2.1.0",
           "dotnet-test-xunit": "1.0.0-rc2-build10015",
-          "Services": "1.0.0"
+          "Services": "1.0.0",
+          "NUnit": "3.6.0"
         },
         "runtime": {
           "Tests.dll": {}
@@ -252,6 +253,11 @@
           "lib/netstandard1.0/NuGet.Versioning.dll": {}
         }
       },
+      "NUnit/3.6.0": {
+        "runtime": {
+          "lib/netstandard1.6/nunit.framework.dll": {}
+        }
+      },
       "Remotion.Linq/2.1.1": {
         "runtime": {
           "lib/netstandard1.0/Remotion.Linq.dll": {}
@@ -356,6 +362,9 @@
         }
       },
       "Models/1.0.0": {
+        "dependencies": {
+          "NUnit": "3.6.0"
+        },
         "runtime": {
           "Models.dll": {}
         }
@@ -363,7 +372,8 @@
       "Services/1.0.0": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore.Sqlite": "1.0.0",
-          "Models": "1.0.0"
+          "Models": "1.0.0",
+          "NUnit": "3.6.0"
         },
         "runtime": {
           "Services.dll": {}
@@ -511,6 +521,11 @@
       "type": "package",
       "serviceable": true,
       "sha512": "sha512-fwFF9Mck1hgZVDvvJLU81gcaidMksfRoCwyjBALEXxnp1fJr4xLyGbTRdbf2OKI5OODGuUpxaMkcz7P4T8HsXw=="
+    },
+    "NUnit/3.6.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-mqJP3DI3mE9YSx0o7R5loyIm0NnLJLSl2lmXn84gSkOmLWzlbrxS0oW/cCZF25tB+6Anday/mbkRUXmdvEvSCg=="
     },
     "Remotion.Linq/2.1.1": {
       "type": "package",

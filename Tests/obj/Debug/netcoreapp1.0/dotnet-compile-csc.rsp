@@ -39,6 +39,7 @@
 -r:"C:\Users\TanyaBrá\.nuget\packages\NuGet.Packaging.Core.Types\3.5.0-beta-final\lib\netstandard1.3\NuGet.Packaging.Core.Types.dll"
 -r:"C:\Users\TanyaBrá\.nuget\packages\NuGet.RuntimeModel\3.5.0-beta-final\lib\netstandard1.3\NuGet.RuntimeModel.dll"
 -r:"C:\Users\TanyaBrá\.nuget\packages\NuGet.Versioning\3.5.0-beta-final\lib\netstandard1.0\NuGet.Versioning.dll"
+-r:"C:\Users\TanyaBrá\.nuget\packages\NUnit\3.6.0\lib\netstandard1.6\nunit.framework.dll"
 -r:"C:\Users\TanyaBrá\.nuget\packages\Remotion.Linq\2.1.1\lib\netstandard1.0\Remotion.Linq.dll"
 -r:"C:\Users\TanyaBrá\.nuget\packages\System.AppContext\4.1.0\ref\netstandard1.6\System.AppContext.dll"
 -r:"C:\Users\TanyaBrá\.nuget\packages\System.Buffers\4.0.0\lib\netstandard1.1\System.Buffers.dll"
