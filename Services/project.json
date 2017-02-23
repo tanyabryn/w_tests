@@ -9,9 +9,10 @@
 			"version": "1.0.0-preview2-final",
 			"type": "build"
 		},
-		"Models": {
-			"target": "project"
-		}
+    "Models": {
+      "target": "project"
+    },
+    "NUnit": "3.6.0"
 	},
 	"frameworks": {
 		"netcoreapp1.0": {
