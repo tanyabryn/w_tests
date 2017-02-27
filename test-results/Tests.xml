@@ -1,30 +1,30 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <assemblies>
-  <assembly name="Tests.dll" environment="64-bit .NET (unknown version) [collection-per-class, parallel (4 threads)]" test-framework="xUnit.net 2.1.0.3179" run-date="2017-02-27" run-time="14:25:46" total="18" passed="18" failed="0" skipped="0" time="0.352" errors="0">
+  <assembly name="Tests.dll" environment="64-bit .NET (unknown version) [collection-per-class, parallel (4 threads)]" test-framework="xUnit.net 2.1.0.3179" run-date="2017-02-27" run-time="14:29:10" total="18" passed="18" failed="0" skipped="0" time="0.307" errors="0">
     <errors />
     <collection total="1" passed="1" failed="0" skipped="0" name="Test collection for Tests.Tests" time="0.008">
-      <test name="Tests.Tests.Test1" type="Tests.Tests" method="Test1" time="0.0076984" result="Pass" />
+      <test name="Tests.Tests.Test1" type="Tests.Tests" method="Test1" time="0.0078165" result="Pass" />
     </collection>
-    <collection total="12" passed="12" failed="0" skipped="0" name="Test collection for CoursesAPI.Tests.Services.CourseServicesTests" time="0.192">
-      <test name="CoursesAPI.Tests.Services.CourseServicesTests.GetCoursesBySemester_ReturnsAllCoursesOnADefaultSemester" type="CoursesAPI.Tests.Services.CourseServicesTests" method="GetCoursesBySemester_ReturnsAllCoursesOnADefaultSemester" time="0.0889598" result="Pass" />
-      <test name="CoursesAPI.Tests.Services.CourseServicesTests.GetCoursesBySemester_ReturnsEmptyListWhenNoDataDefined" type="CoursesAPI.Tests.Services.CourseServicesTests" method="GetCoursesBySemester_ReturnsEmptyListWhenNoDataDefined" time="0.0055862" result="Pass" />
-      <test name="CoursesAPI.Tests.Services.CourseServicesTests.AddTeacher_PersonAlreadyRegisteredAsTeacherInCourse" type="CoursesAPI.Tests.Services.CourseServicesTests" method="AddTeacher_PersonAlreadyRegisteredAsTeacherInCourse" time="0.0146566" result="Pass" />
-      <test name="CoursesAPI.Tests.Services.CourseServicesTests.GetCoursesBySemester_ReturnsMainTeacherAndNotTA" type="CoursesAPI.Tests.Services.CourseServicesTests" method="GetCoursesBySemester_ReturnsMainTeacherAndNotTA" time="0.0084505" result="Pass" />
-      <test name="CoursesAPI.Tests.Services.CourseServicesTests.AddTeacher_AlreadyWithMainTeacher" type="CoursesAPI.Tests.Services.CourseServicesTests" method="AddTeacher_AlreadyWithMainTeacher" time="0.0036469" result="Pass" />
-      <test name="CoursesAPI.Tests.Services.CourseServicesTests.AddTeacher_InvalidTeacher" type="CoursesAPI.Tests.Services.CourseServicesTests" method="AddTeacher_InvalidTeacher" time="0.0026703" result="Pass" />
-      <test name="CoursesAPI.Tests.Services.CourseServicesTests.AddTeacher_InvalidCourse" type="CoursesAPI.Tests.Services.CourseServicesTests" method="AddTeacher_InvalidCourse" time="0.0014419" result="Pass" />
-      <test name="CoursesAPI.Tests.Services.CourseServicesTests.GetCoursesBySemester_ReturnsMainTeacher" type="CoursesAPI.Tests.Services.CourseServicesTests" method="GetCoursesBySemester_ReturnsMainTeacher" time="0.0112314" result="Pass" />
-      <test name="CoursesAPI.Tests.Services.CourseServicesTests.GetCoursesBySemester_ReturnsAllCoursesFromSemester20163" type="CoursesAPI.Tests.Services.CourseServicesTests" method="GetCoursesBySemester_ReturnsAllCoursesFromSemester20163" time="0.0148026" result="Pass" />
-      <test name="CoursesAPI.Tests.Services.CourseServicesTests.GetCoursesBySemester_ReturnsEmptyStringForTeacherAndNotTA" type="CoursesAPI.Tests.Services.CourseServicesTests" method="GetCoursesBySemester_ReturnsEmptyStringForTeacherAndNotTA" time="0.0141907" result="Pass" />
-      <test name="CoursesAPI.Tests.Services.CourseServicesTests.GetCoursesBySemester_ReturnsEmptyStringForTeacher" type="CoursesAPI.Tests.Services.CourseServicesTests" method="GetCoursesBySemester_ReturnsEmptyStringForTeacher" time="0.0116182" result="Pass" />
-      <test name="CoursesAPI.Tests.Services.CourseServicesTests.AddTeacher_WithValidTeacherAndCourse" type="CoursesAPI.Tests.Services.CourseServicesTests" method="AddTeacher_WithValidTeacherAndCourse" time="0.0144426" result="Pass" />
+    <collection total="12" passed="12" failed="0" skipped="0" name="Test collection for CoursesAPI.Tests.Services.CourseServicesTests" time="0.179">
+      <test name="CoursesAPI.Tests.Services.CourseServicesTests.GetCoursesBySemester_ReturnsAllCoursesOnADefaultSemester" type="CoursesAPI.Tests.Services.CourseServicesTests" method="GetCoursesBySemester_ReturnsAllCoursesOnADefaultSemester" time="0.0722051" result="Pass" />
+      <test name="CoursesAPI.Tests.Services.CourseServicesTests.GetCoursesBySemester_ReturnsEmptyListWhenNoDataDefined" type="CoursesAPI.Tests.Services.CourseServicesTests" method="GetCoursesBySemester_ReturnsEmptyListWhenNoDataDefined" time="0.005405" result="Pass" />
+      <test name="CoursesAPI.Tests.Services.CourseServicesTests.AddTeacher_PersonAlreadyRegisteredAsTeacherInCourse" type="CoursesAPI.Tests.Services.CourseServicesTests" method="AddTeacher_PersonAlreadyRegisteredAsTeacherInCourse" time="0.0144719" result="Pass" />
+      <test name="CoursesAPI.Tests.Services.CourseServicesTests.GetCoursesBySemester_ReturnsMainTeacherAndNotTA" type="CoursesAPI.Tests.Services.CourseServicesTests" method="GetCoursesBySemester_ReturnsMainTeacherAndNotTA" time="0.0081035" result="Pass" />
+      <test name="CoursesAPI.Tests.Services.CourseServicesTests.AddTeacher_AlreadyWithMainTeacher" type="CoursesAPI.Tests.Services.CourseServicesTests" method="AddTeacher_AlreadyWithMainTeacher" time="0.0053817" result="Pass" />
+      <test name="CoursesAPI.Tests.Services.CourseServicesTests.AddTeacher_InvalidTeacher" type="CoursesAPI.Tests.Services.CourseServicesTests" method="AddTeacher_InvalidTeacher" time="0.0039947" result="Pass" />
+      <test name="CoursesAPI.Tests.Services.CourseServicesTests.AddTeacher_InvalidCourse" type="CoursesAPI.Tests.Services.CourseServicesTests" method="AddTeacher_InvalidCourse" time="0.0021709" result="Pass" />
+      <test name="CoursesAPI.Tests.Services.CourseServicesTests.GetCoursesBySemester_ReturnsMainTeacher" type="CoursesAPI.Tests.Services.CourseServicesTests" method="GetCoursesBySemester_ReturnsMainTeacher" time="0.0133089" result="Pass" />
+      <test name="CoursesAPI.Tests.Services.CourseServicesTests.GetCoursesBySemester_ReturnsAllCoursesFromSemester20163" type="CoursesAPI.Tests.Services.CourseServicesTests" method="GetCoursesBySemester_ReturnsAllCoursesFromSemester20163" time="0.0147473" result="Pass" />
+      <test name="CoursesAPI.Tests.Services.CourseServicesTests.GetCoursesBySemester_ReturnsEmptyStringForTeacherAndNotTA" type="CoursesAPI.Tests.Services.CourseServicesTests" method="GetCoursesBySemester_ReturnsEmptyStringForTeacherAndNotTA" time="0.014207" result="Pass" />
+      <test name="CoursesAPI.Tests.Services.CourseServicesTests.GetCoursesBySemester_ReturnsEmptyStringForTeacher" type="CoursesAPI.Tests.Services.CourseServicesTests" method="GetCoursesBySemester_ReturnsEmptyStringForTeacher" time="0.01248" result="Pass" />
+      <test name="CoursesAPI.Tests.Services.CourseServicesTests.AddTeacher_WithValidTeacherAndCourse" type="CoursesAPI.Tests.Services.CourseServicesTests" method="AddTeacher_WithValidTeacherAndCourse" time="0.0125514" result="Pass" />
     </collection>
-    <collection total="5" passed="5" failed="0" skipped="0" name="Test collection for CoursesAPI.Tests.Utilities.DateTimeUtilsTests" time="0.008">
-      <test name="CoursesAPI.Tests.Utilities.DateTimeUtilsTests.IsLeapYear_TestForNonLeapYearEdgeCase1" type="CoursesAPI.Tests.Utilities.DateTimeUtilsTests" method="IsLeapYear_TestForNonLeapYearEdgeCase1" time="0.0076002" result="Pass" />
-      <test name="CoursesAPI.Tests.Utilities.DateTimeUtilsTests.IsLeapYear_TestForStandardLeapYearDivisibleBy4" type="CoursesAPI.Tests.Utilities.DateTimeUtilsTests" method="IsLeapYear_TestForStandardLeapYearDivisibleBy4" time="0.0002257" result="Pass" />
-      <test name="CoursesAPI.Tests.Utilities.DateTimeUtilsTests.IsLeapYear_TestForNonLeapYear" type="CoursesAPI.Tests.Utilities.DateTimeUtilsTests" method="IsLeapYear_TestForNonLeapYear" time="0.0001909" result="Pass" />
-      <test name="CoursesAPI.Tests.Utilities.DateTimeUtilsTests.IsLeapYear_TestForNonLeapYearDivisibleBy100" type="CoursesAPI.Tests.Utilities.DateTimeUtilsTests" method="IsLeapYear_TestForNonLeapYearDivisibleBy100" time="0.0001926" result="Pass" />
-      <test name="CoursesAPI.Tests.Utilities.DateTimeUtilsTests.IsLeapYear_TestForLeapYearDivisibleBy400" type="CoursesAPI.Tests.Utilities.DateTimeUtilsTests" method="IsLeapYear_TestForLeapYearDivisibleBy400" time="0.0001764" result="Pass" />
+    <collection total="5" passed="5" failed="0" skipped="0" name="Test collection for CoursesAPI.Tests.Utilities.DateTimeUtilsTests" time="0.009">
+      <test name="CoursesAPI.Tests.Utilities.DateTimeUtilsTests.IsLeapYear_TestForNonLeapYearEdgeCase1" type="CoursesAPI.Tests.Utilities.DateTimeUtilsTests" method="IsLeapYear_TestForNonLeapYearEdgeCase1" time="0.007841" result="Pass" />
+      <test name="CoursesAPI.Tests.Utilities.DateTimeUtilsTests.IsLeapYear_TestForStandardLeapYearDivisibleBy4" type="CoursesAPI.Tests.Utilities.DateTimeUtilsTests" method="IsLeapYear_TestForStandardLeapYearDivisibleBy4" time="0.0002415" result="Pass" />
+      <test name="CoursesAPI.Tests.Utilities.DateTimeUtilsTests.IsLeapYear_TestForNonLeapYear" type="CoursesAPI.Tests.Utilities.DateTimeUtilsTests" method="IsLeapYear_TestForNonLeapYear" time="0.0001846" result="Pass" />
+      <test name="CoursesAPI.Tests.Utilities.DateTimeUtilsTests.IsLeapYear_TestForNonLeapYearDivisibleBy100" type="CoursesAPI.Tests.Utilities.DateTimeUtilsTests" method="IsLeapYear_TestForNonLeapYearDivisibleBy100" time="0.0001878" result="Pass" />
+      <test name="CoursesAPI.Tests.Utilities.DateTimeUtilsTests.IsLeapYear_TestForLeapYearDivisibleBy400" type="CoursesAPI.Tests.Utilities.DateTimeUtilsTests" method="IsLeapYear_TestForLeapYearDivisibleBy400" time="0.0001689" result="Pass" />
     </collection>
   </assembly>
 </assemblies>

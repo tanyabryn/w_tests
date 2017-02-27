@@ -36,7 +36,7 @@ Task("Default")
 
 Task("Build")  
 .Does(() =>{
-
+	DotNetCoreRestore("./");
     // MA - Build the libraries
     DotNetCoreBuild("./API/**/project.json");
 
