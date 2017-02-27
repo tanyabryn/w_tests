@@ -12,7 +12,8 @@
     "Models": {
       "target": "project"
     },
-    "NUnit": "3.6.0"
+    "NUnit": "3.6.0",
+    "System.Xml.ReaderWriter": "4.3.0"
 	},
 	"frameworks": {
 		"netcoreapp1.0": {
