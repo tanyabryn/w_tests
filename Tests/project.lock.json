@@ -2892,7 +2892,7 @@
         "dependencies": {
           "Microsoft.EntityFrameworkCore.Sqlite": "1.0.0",
           "Microsoft.NETCore.App": "1.0.0",
-          "Models": "1.0.0",
+          "Models": "(, )",
           "NUnit": "3.6.0",
           "System.Xml.ReaderWriter": "4.3.0",
           "xunit.runner.console": "2.2.0"
