@@ -36,6 +36,15 @@ Task("Default")
 
 Task("Build")  
 .Does(() =>{
+        // MA - Build the libraries
+    DotNetCoreRestore("./API/**/project.json");
+
+    DotNetCoreRestore("./Models/**/project.json");
+
+    DotNetCoreRestore("./Services/**/project.json");
+
+    // MA - Build the test libraries
+    DotNetCoreRestore("./Tests/**/project.json");
     // MA - Build the libraries
     DotNetCoreBuild("./API/**/project.json");
 

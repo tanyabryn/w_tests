@@ -2818,6 +2818,9 @@
           "lib/dotnet/xunit.execution.dotnet.dll": {}
         }
       },
+      "xunit.runner.console/2.2.0": {
+        "type": "package"
+      },
       "xunit.runner.reporters/2.1.0": {
         "type": "package",
         "dependencies": {
@@ -2873,7 +2876,8 @@
         "dependencies": {
           "NETStandard.Library": "1.6.0",
           "NUnit": "3.6.0",
-          "System.Xml.ReaderWriter": "4.3.0"
+          "System.Xml.ReaderWriter": "4.3.0",
+          "xunit.runner.console": "2.2.0"
         },
         "compile": {
           "netstandard1.6/Models.dll": {}
@@ -2890,7 +2894,8 @@
           "Microsoft.NETCore.App": "1.0.0",
           "Models": "1.0.0",
           "NUnit": "3.6.0",
-          "System.Xml.ReaderWriter": "4.3.0"
+          "System.Xml.ReaderWriter": "4.3.0",
+          "xunit.runner.console": "2.2.0"
         },
         "compile": {
           "netcoreapp1.0/Services.dll": {}
@@ -8163,6 +8168,25 @@
         "xunit.extensibility.execution.nuspec"
       ]
     },
+    "xunit.runner.console/2.2.0": {
+      "sha512": "Bz+N1MyQ24rtLJPR/cCdUAb4V8cM2Te7gTopDhsIkPSOqWk4GCO2QfJvr5Wwe0vbBXcpBOWCh2vH75fzhA3cig==",
+      "type": "package",
+      "path": "xunit.runner.console/2.2.0",
+      "files": [
+        "tools/HTML.xslt",
+        "tools/NUnitXml.xslt",
+        "tools/xUnit1.xslt",
+        "tools/xunit.abstractions.dll",
+        "tools/xunit.console.exe",
+        "tools/xunit.console.exe.config",
+        "tools/xunit.console.x86.exe",
+        "tools/xunit.console.x86.exe.config",
+        "tools/xunit.runner.reporters.net452.dll",
+        "tools/xunit.runner.utility.net452.dll",
+        "xunit.runner.console.2.2.0.nupkg.sha512",
+        "xunit.runner.console.nuspec"
+      ]
+    },
     "xunit.runner.reporters/2.1.0": {
       "sha512": "ja0kJrvwSiho2TRFpfHfa+6tGJI5edcyD8fdekTkjn7Us17PbGqglIihRe8sR9YFAmS4ipEC8+7CXOM/b69ENQ==",
       "type": "package",
@@ -8214,7 +8238,8 @@
       "System.Runtime.Serialization.Primitives >= 4.1.1",
       "System.Xml.ReaderWriter >= 4.3.0",
       "dotnet-test-xunit >= 1.0.0-rc2-build10015",
-      "xunit >= 2.1.0"
+      "xunit >= 2.1.0",
+      "xunit.runner.console >= 2.2.0"
     ],
     ".NETCoreApp,Version=v1.0": [
       "Microsoft.NETCore.App >= 1.0.0"

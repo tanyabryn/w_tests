@@ -12,8 +12,13 @@
       "target": "project"
     },
     "NUnit": "3.6.0",
-    "System.Xml.ReaderWriter": "4.3.0"
+    "System.Xml.ReaderWriter": "4.3.0",
+    "xunit.runner.console": "2.2.0"
   },
+  "commands": {
+    "test": "xunit.runner.console -xml TestResults.xml"
+  },
+
 
   "testRunner": "xunit",
   "frameworks": {

@@ -1094,6 +1094,9 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
+      },
+      "xunit.runner.console/2.2.0": {
+        "type": "package"
       }
     }
   },
@@ -4099,12 +4102,32 @@
         "ref/xamarintvos10/_._",
         "ref/xamarinwatchos10/_._"
       ]
+    },
+    "xunit.runner.console/2.2.0": {
+      "sha512": "Bz+N1MyQ24rtLJPR/cCdUAb4V8cM2Te7gTopDhsIkPSOqWk4GCO2QfJvr5Wwe0vbBXcpBOWCh2vH75fzhA3cig==",
+      "type": "package",
+      "path": "xunit.runner.console/2.2.0",
+      "files": [
+        "tools/HTML.xslt",
+        "tools/NUnitXml.xslt",
+        "tools/xUnit1.xslt",
+        "tools/xunit.abstractions.dll",
+        "tools/xunit.console.exe",
+        "tools/xunit.console.exe.config",
+        "tools/xunit.console.x86.exe",
+        "tools/xunit.console.x86.exe.config",
+        "tools/xunit.runner.reporters.net452.dll",
+        "tools/xunit.runner.utility.net452.dll",
+        "xunit.runner.console.2.2.0.nupkg.sha512",
+        "xunit.runner.console.nuspec"
+      ]
     }
   },
   "projectFileDependencyGroups": {
     "": [
       "NUnit >= 3.6.0",
-      "System.Xml.ReaderWriter >= 4.3.0"
+      "System.Xml.ReaderWriter >= 4.3.0",
+      "xunit.runner.console >= 2.2.0"
     ],
     ".NETStandard,Version=v1.6": [
       "NETStandard.Library >= 1.6.0"
