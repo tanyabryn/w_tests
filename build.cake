@@ -71,7 +71,7 @@ Task("Test")
             ArgumentCustomization = args => args.Append("-xml " + resultsFile)
         });
         // MA - Transform the result XML into NUnit-compatible XML for the build server.
-        XmlTransform("./tools/NUnitXml.xslt", "./test-results/" + projectName + ".xml", "./test-results/NUnit." + projectName + ".xml");
+        XmlTransform(".tools/xunit.runner.console/tools/NUnitXml.xslt", "./test-results/" + projectName + ".xml", "./test-results/NUnit." + projectName + ".xml");
     }
 });
 //////////////////////////////////////////////////////////////////////
